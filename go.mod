@@ -7,7 +7,7 @@ replace (
 	github.com/Microsoft/hcsshim => github.com/Microsoft/hcsshim v0.8.16
 	github.com/containerd/continuity => github.com/k3s-io/continuity v0.0.0-20210309170710-f93269e0d5c1
 	github.com/containerd/cri => github.com/k3s-io/cri v1.4.0-k3s.7 // k3s-release/1.4
-	github.com/golang/protobuf => github.com/golang/protobuf v1.3.5
+	github.com/golang/protobuf => github.com/golang/protobuf v1.4.0
 	github.com/opencontainers/runc => github.com/opencontainers/runc v1.0.0-rc94
 	google.golang.org/genproto => google.golang.org/genproto v0.0.0-20200224152610-e50cd9704f63
 	k8s.io/api => k8s.io/api v0.19.10
